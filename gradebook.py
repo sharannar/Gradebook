@@ -16,7 +16,9 @@ subjects.append(["Computer Science", 100])
 subjects.append (["Visual Arts",93])
 #Checkpoint 7
 gradebook[-1][-1] =98
+#CheckPOint 8
 gradebook.remove(["Poetry",85])
+#CheckPoint 9
 gradebook.append (["Poetry","Pass"])
 full_gradebook = last_semester_gradebook + gradebook
 print(full_gradebook)
